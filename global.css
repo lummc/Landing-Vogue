@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Common Style Variables */
+
+  /* Color */
+  --color-black: #000;
+  --color-burlywood: #ffca96;
+  --color-darkslategray: #383434;
+  --color-lightgray: #ccc;
+  --color-peru: #cc8640;
+  --color-saddlebrown: #572d1d;
+  --color-sienna-100: #cb6f4a;
+  --color-sienna-200: #b85c38;
+  --color-white: #fff;
+  --color-whitesmoke: #faf8f5;
+
+  /* Gap */
+  --gap-3: 3px;
+  --gap-8: 8px;
+  --gap-24: 24px;
+
+  /* Padding */
+  --padding-0: 0px;
+  --padding-2: 2px;
+  --padding-3: 3px;
+  --padding-4: 4px;
+  --padding-11: 11px;
+  --padding-18: 18px;
+  --padding-19: 19px;
+  --padding-20: 20px;
+  --padding-21: 21px;
+  --padding-22: 22px;
+  --padding-24: 24px;
+  --padding-28: 28px;
+  --padding-30: 30px;
+  --padding-32: 32px;
+  --padding-40: 40px;
+  --padding-57: 57px;
+  --padding-58: 58px;
+  --padding-60: 60px;
+  --padding-69: 69px;
+
+  /* Font */
+  --font-bodoni-moda: Bodoni Moda;
+  --font-montserrat: Montserrat;
+
+  /* FontSize */
+  --fs-16: 16px;
+  --fs-19: 19px;
+  --fs-20: 20px;
+  --fs-22: 22px;
+  --fs-24: 24px;
+  --fs-26: 26px;
+  --fs-27: 27px;
+  --fs-29: 29px;
+  --fs-32: 32px;
+  --fs-34: 34px;
+  --fs-36: 36px;
+  --fs-40: 40px;
+  --fs-48: 48px;
+
+  /* Borders */
+  --border-1: 2px solid var(--color-lightgray);
+
+  /* WidthHeights */
+  --height-2: 2px;
+  --height-20: 20px;
+  --height-146: 146px;
+  --min-w-96: 96px;
+  --width-1: 1px;
+
+  /* LetterSpacings */
+  --ls-0_01: 0.01;
+
+  --left-0: 0px;
+  --left-18: 18px;
+  --top-0: 0px;
+  --top-24: 24px;
+  --top-48: 48px;
+}
+/* En global.css */
+html { scroll-behavior: smooth; }
